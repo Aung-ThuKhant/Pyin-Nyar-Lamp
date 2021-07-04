@@ -1,0 +1,187 @@
+
+#header{
+	width: 900px;
+	height: 280px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+#header1{
+	background-color: black;
+	width: 900px;
+	height: 50px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+#header2{
+	background-color: yellow;
+	width: 900px;
+	height: 300px;
+	margin-top: 0px;
+}
+#header3{
+	background-color: yellow;
+	width: 900px;
+	height: 330px;
+	margin-top: 0px;
+}
+#header4{
+	width: 900px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background: yellow;
+	color: black;
+	margin-top: 0px;
+	border-radius: 5px;
+}
+#footer{
+	width: 900px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#sim{
+	width: 900px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+#sim3{
+	background-color: yellow;
+	width: 900px;
+	height: 330px;
+	margin-top: 0px;
+}
+#credit-header{
+	width: 900px;
+	height: 275px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+#card3{
+	background-color: yellow;
+	width: 900px;
+	height: 398px;
+	margin-top: 0px;
+}
+body{
+	background: skyblue;
+}
+h3{
+	color: yellow;
+	font-size: 30px;
+	margin-top: 0px;
+	margin-left: 25px;
+}
+ul > li{
+	float: left;
+}
+h4{
+	border: 2px solid green;
+	width: 370px;
+	height: 120px;
+	margin-left: 280px;
+	margin-top: 0px;
+}
+p{
+	border: 1px solid black;
+	width: 200px;
+	height: 35px;
+	text-align: center;
+	background: black;
+	color: yellow;
+	margin-left: 370px;
+}
+strong{
+	font-size: 25px;
+	margin-left: 20px;
+}
+a{
+	text-decoration: none;
+}
+label{
+	margin-left: 200px;
+	font-size: 27px;
+}
+.cardnumber{
+	margin-left: 200px;
+	width: 610px;
+	height: 37px;
+}
+.expirydate{
+	margin-left: 200px;
+	font-size: 27px;
+}
+.cardcvv{
+	margin-left: 230px;
+	font-size: 27px;
+}
+.date{
+	margin-left: 200px;
+	width: 240px;
+	height: 37px;
+}
+.cvv{
+	margin-left: 120px;
+	width: 240px;
+	height: 37px;
+}
+.holdername{
+	margin-left: 200px;
+	width: 610px;
+	height: 37px;
+}
+.save{
+	background: green;
+	width: 150px;
+	height: 40px;
+	text-align: center;
+	color: black;
+	margin-left: 400px;
+	margin-top: 3px;
+	font-size: 25px;
+}
+#card3 > a{
+	text-decoration: none;
+	background-color: green;
+	width: 900px;
+	height: 45px;
+	color: black;
+}
+.bill{
+	margin-left: 20px;
+	width: 240px;
+	height: 37px;
+}
+#left{
+	margin-right: auto;
+	margin-left: auto;
+	width: 450px;
+	height: 300px;
+	float: left;
+}
+#right{
+	margin-right: auto;
+	margin-left: auto;
+	width: 700px;
+	height: 300px;
+}
+button{
+	width: 130px;
+	height: 40px;
+	border-radius: 8px;
+	font-size: 17px;
+}
+#streaming{
+	margin-top: 10px;
+}
+#author-right{
+	margin-right: auto;
+	margin-left: auto;
+	width: 750px;
+	height: 300px;
+	margin-top: 0px;
+}
